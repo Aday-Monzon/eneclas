@@ -90,8 +90,8 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="text-container">
-                            <h1 class="h1-large">Centro de Estudios <span style="font-family: 'Lexend Giga', sans-serif;" class="replace-me">enaclas</span></h1>
-                            <p class="p-large">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dignissim, neque ut vanic barem ultrices sollicitudin</p>
+                            <h1 class="h1-large">Centro de Estudios<br>Curso 2021/22 <span style="font-family: 'Lexend Giga', sans-serif;" class="replace-me">Matrículas abiertas</span></h1>
+                            <p class="p-large">Plazas limitadas<br>Primaria - Secundaria- Bachillerato - Universidad</p>
                             {{-- <a class="btn-solid-lg" href="sign-up.html">Sign up for free</a> --}}
                         </div> <!-- end of text-container -->
                     </div> <!-- end of col -->
@@ -123,8 +123,8 @@
                                 <span class="fas fa-laptop"></span>
                             </div>
                             <div class="card-body">
-                                <h4 class="card-title">Campus Virtual</h4>
-                                <p>Et blandit nisl libero at arcu. Donec ac lectus sed tellus mollis viverra. Nullam pharetra ante at nunc elementum</p>
+                                <h4 class="card-title">Plataforma Digital</h4>
+                                <p>Hay múltiples ventajas al recibir clases virtuales y poder tener el material de aprendizaje en diferentes formatos. </p>
                             </div>
                         </div>
                         <!-- end of card -->
@@ -135,8 +135,8 @@
                                 <span class="far fa-clipboard"></span>
                             </div>
                             <div class="card-body">
-                                <h4 class="card-title">Seguimiento</h4>
-                                <p>Vulputate nibh feugiat. Morbi pellent diam nec libero lacinia, sed ultrices velit scelerisque. Nunc placerat justo sem</p>
+                                <h4 class="card-title">Técnicas de Estudio</h4>
+                                <p>Promueven el desarrollo cognitivo, así como la capacidad de aprender con menor dificultad nuevos contenidos y mejorar el rendimiento académico.</p>
                             </div>
                         </div>
                         <!-- end of card -->
@@ -147,8 +147,8 @@
                                 <span class="fas fa-university"></span>
                             </div>
                             <div class="card-body">
-                                <h4 class="card-title">Todos los niveles</h4>
-                                <p>Ety suscipit metus sollicitudin euqu isq imperdiet nibh nec magna tincidunt, nec pala vehicula neque sodales verum</p>
+                                <h4 class="card-title">Clases Reducidas</h4>
+                                <p>Impartimos clases para todos los niveles educativos, desde primaria hasta la universidad.</p>
                             </div>
                         </div>
                         <!-- end of card -->
@@ -166,8 +166,8 @@
                 <div class="row">
                     <div class="col-lg-6 col-xl-5">
                         <div class="text-container">
-                            <h2>Mejoramos las expectativas de nuestros alumnos y hacemos que confíen en lograr sus objetivos.</h2>
-                            <p>Vestibulum ullamcorper augue ex, imperdiet tincidunt tellus bibendum inconsectetur rutrum mauris orbi scelerisque cursus augue, ac suscipit sem mattis at ut suscipit</p>
+                            <h2> Nuestro compromiso con los alumn@s y familia parte del análisis de necesidades y atención personalizada. </h2>
+                            <p>Por ello, nuestros grupos serán de un maximo de 4 estudiantes.</p>
                            
                         </div> <!-- end of text-container -->
                     </div> <!-- end of col -->
@@ -193,35 +193,25 @@
                             </div> <!-- end of image-container -->
                         </div> <!-- end of col -->
                         <div class="col-lg-4">
-                            <h3>Goals Setting</h3>
+                            <h3>Moodle de Enaclas</h3>
                             <hr>
-                            <p>In gravida at nunc sodales pretium. Vivamus semper, odio vitae mattis auctor, elit elit semper magna ac tum nico vela spider</p>
-                            <h4>User Feedback</h4>
-                            <p>Sapien vitae eros. Praesent ut erat a tellus posuere nisi more thico cursus pharetra finibus posuere nisi. Vivamus feugiat</p>
+                            <p>Permitirá acceder a contenido teórico,ejercicios y mucho más.</p>
+                            <h4>Academia en casa</h4>
+                            <p>No solo el aprendizaje será más dinámico: acercaremos la academia a casa</p>
+                            <p>Gracias a ello podremos acompañar a nuestr@s alumn@os tanto dentro, como fuera del aula.</p>
                             <ul class="list-unstyled li-space-lg">
                                 <li class="d-flex">
                                     <i class="fas fa-chevron-right"></i>
-                                    <div class="flex-grow-1">Tincidunt sem vel brita bet mala</div>
+                                    <div class="flex-grow-1">En el aula podrá intercambiar opiniones e interactuar con los profesores.</div>
                                 </li>
                                 <li class="d-flex">
                                     <i class="fas fa-chevron-right"></i>
                                     <div class="flex-grow-1">Sapien condimentum sacoz sil necr</div>
                                 </li>
-                                <li class="d-flex">
-                                    <i class="fas fa-chevron-right"></i>
-                                    <div class="flex-grow-1">Fusce interdum nec ravon fro urna</div>
-                                </li>
-                                <li class="d-flex">
-                                    <i class="fas fa-chevron-right"></i>
-                                    <div class="flex-grow-1">Integer pulvinar biolot bat tortor</div>
-                                </li>
-                                <li class="d-flex">
-                                    <i class="fas fa-chevron-right"></i>
-                                    <div class="flex-grow-1">Id ultricies fringilla fangor raq trinit</div>
-                                </li>
+                                
                             </ul>
-                            <a id="modalCtaBtn" class="btn-solid-reg" href="#your-link">Details</a>
-                            <button type="button" class="btn-outline-reg" data-bs-dismiss="modal">Close</button>
+                            <a id="modalCtaBtn" class="btn-solid-reg" href="#your-link">Acceder</a>
+                            <button type="button" class="btn-outline-reg" data-bs-dismiss="modal">Cerrar</button>
                         </div> <!-- end of col -->
                     </div> <!-- end of row -->
                 </div> <!-- end of modal-content -->
@@ -241,23 +231,20 @@
                     </div> <!-- end of col -->
                     <div class="col-lg-6">
                         <div class="text-container">
-                            <h2>Cualquiera puede empezar a utilizar la aplicación con un mínimo de conocimientos</h2>
-                            <p>Velit dictum non proin egestas convallis nunc, eu auctor massa. Nam hendrerit, eros ut viverra lobortis, mauris nisi porta risus, placerat dignissim tellus auctor masse</p>
+                            <h2>Cualquiera puede empezar a utilizar la plataforma con un mínimo de conocimientos</h2>
+                            <p> Podrás conocer diferentes herramientas de aprendizaje lo que también le permite estar más motivado y mantener el interés en el tema.</p>
                             <ul class="list-unstyled li-space-lg">
                                 <li class="d-flex">
                                     <i class="fas fa-square"></i>
-                                    <div class="flex-grow-1">Fusce ipsum augue, ultrices rutrum est accel, pulvin</div>
+                                    <div class="flex-grow-1"> Puedes acceder al contenido teórico y ejercicios 24/7 desde cualquier lugar.</div>
                                 </li>
                                 <li class="d-flex">
                                     <i class="fas fa-square"></i>
-                                    <div class="flex-grow-1">Fermentum elit. Vestibulum cursuso bibendum viverra</div>
+                                    <div class="flex-grow-1">Accesibilidad y facilidad de uso.</div>
                                 </li>
-                                <li class="d-flex">
-                                    <i class="fas fa-square"></i>
-                                    <div class="flex-grow-1">Quisque blandit pulvinar metus, eu sta malesuada</div>
-                                </li>
+                            
                             </ul>
-                             <a class="btn-solid-reg" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Modal</a>
+                             <a class="btn-solid-reg" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Campus</a>
                         </div> <!-- end of text-container -->
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
@@ -394,7 +381,7 @@
                 <form>
                   <div class="row">
                     <div class="col-lg-6">
-                      <div class="form-group mt-3">
+                      <div class="form-group mt-3">                    
                         <input class="form-control" type="text" placeholder="nombre">
                       </div>
                     </div>
@@ -427,13 +414,13 @@
             </div>
             <div class="col-lg-4 bg-image" style="background-image:url(https://cdn.pixabay.com/photo/2015/12/01/15/43/black-1072366_960_720.jpg)">
               <div class="detail-box p-4">
-                <h5 class="text-white font-weight-light mb-3">DIRECCIÓN</h5>
-                <p class="text-white op-7">C/ Isla de el Hierro <br> 35217 - Valsequillo<br> Las Palmas de GC
+                <h5 class="text-white font-weight-light mb-3"><i class="fas fa-map-marker-alt"></i> DIRECCIÓN</h5>
+                <p class="text-white op-7">C/ Isla de el Hierro 8<br> 35217 - Valsequillo<br> Las Palmas de GC
                    </p>
-                <h5 class=" text-white font-weight-light mb-3 mt-4">TELEFONO</h5>
+                <h5 class=" text-white font-weight-light mb-3 mt-4"><i class="fas fa-phone"></i> TELEFONO</h5>
                 <p class=" text-white op-7">662 27 85 83
                   <br> 928 016 749</p>
-                <h5 class=" text-white font-weight-light mb-3 mt-4">EMAIL</h5>
+                <h5 class=" text-white font-weight-light mb-3 mt-4"><i class="fas fa-envelope"></i> EMAIL</h5>
                 <p class=" text-white op-7">estudioenaclas@gmail.com
                   </p>
                 <div class="round-social light">
@@ -469,7 +456,7 @@
                         <div class="card">
                             <div class="card-body">
                                 <div class="card-title">
-                                    <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Individual</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
+                                    <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Clases Sueltas</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
                                 </div>
                                 <ul class="list-unstyled li-space-lg">
                                     <li>Fusce pulvinar eu mi acm</li>
@@ -490,7 +477,7 @@
                         <div class="card">
                             <div class="card-body">
                                 <div class="card-title">
-                                    <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Mensual</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
+                                    <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Bono Horas</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
                                 </div>
                                 <ul class="list-unstyled li-space-lg">
                                     <li>Nunc commodo magna quis</li>
@@ -511,7 +498,7 @@
                         <div class="card">
                             <div class="card-body">
                                 <div class="card-title">
-                                    <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Bono 10</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
+                                    <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Bono Horas</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
                                 </div>
                                 <ul class="list-unstyled li-space-lg">
                                     <li>Quisque rutrum mattis</li>
