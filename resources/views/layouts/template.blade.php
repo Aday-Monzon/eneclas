@@ -458,15 +458,6 @@
                                 <div class="card-title">
                                     <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Clases Sueltas</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
                                 </div>
-                                <ul class="list-unstyled li-space-lg">
-                                    <li>Fusce pulvinar eu mi acm</li>
-                                    <li>Curabitur consequat nisl bro</li>
-                                    <li>Reget facilisis molestie</li>
-                                    <li>Vivamus vitae sem in tortor</li>
-                                    <li>Pharetra vehicula ornares</li>
-                                    <li>Vivamus dignissim sit amet</li>
-                                    <li>Ut convallis aliquama set</li>
-                                </ul>
                                 <div class="price">15€</div>
                                 <a href="sign-up.html" class="btn-solid-reg">Sign up</a>
                             </div>
@@ -477,18 +468,9 @@
                         <div class="card">
                             <div class="card-body">
                                 <div class="card-title">
-                                    <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Bono Horas</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
+                                    <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Bono 4 Horas</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
                                 </div>
-                                <ul class="list-unstyled li-space-lg">
-                                    <li>Nunc commodo magna quis</li>
-                                    <li>Lacus fermentum tincidunt</li>
-                                    <li>Nullam lobortis porta diam</li>
-                                    <li>Announcing of invita mro</li>
-                                    <li>Dictum metus placerat luctus</li>
-                                    <li>Sed laoreet blandit mollis</li>
-                                    <li>Mauris non luctus est</li>
-                                </ul>
-                                <div class="price">160€<span>/mes</span></div>
+                                <div class="price">55€<span>/mes</span></div>
                                 <a href="sign-up.html" class="btn-solid-reg">Sign up</a>
                             </div>
                         </div>
@@ -498,19 +480,48 @@
                         <div class="card">
                             <div class="card-body">
                                 <div class="card-title">
-                                    <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Bono Horas</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
+                                    <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Bono 8 Horas</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
+                                </div>
+                                <div class="price">90€<span>/mes</span></div>
+                                <a href="sign-up.html" class="btn-solid-reg">Sign up</a>
+                            </div>
+                        </div>
+                        <!-- end of card -->
+
+                         <!-- Card -->
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="card-title">
+                                    <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Bono 12 Horas</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
+                                </div>
+                                <div class="price">110€<span>/mes</span></div>
+                                <a href="sign-up.html" class="btn-solid-reg">Sign up</a>
+                            </div>
+                        </div>
+                        <!-- end of card -->
+                         <!-- Card -->
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="card-title">
+                                    <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Bono 16 Horas</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
+                                </div>
+                                <div class="price">135€<span>/mes</span></div>
+                                <a href="sign-up.html" class="btn-solid-reg">Sign up</a>
+                            </div>
+                        </div>
+                        <!-- end of card -->
+
+                         <!-- Card -->
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="card-title">
+                                    <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span></span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
                                 </div>
                                 <ul class="list-unstyled li-space-lg">
-                                    <li>Quisque rutrum mattis</li>
-                                    <li>Quisque tristique cursus lacus</li>
-                                    <li>Interdum sollicitudin maec</li>
-                                    <li>Quam posuerei pellentesque</li>
-                                    <li>Est neco gravida turpis integer</li>
-                                    <li>Mollis felis. Integer id quam</li>
-                                    <li>Id tellus hendrerit lacinia</li>
+                                    <li>DESCUENTO HERMAN@S</li>
+                                    <li>CARNET FAMILIA NUMEROSA</li>
                                 </ul>
-                                <div class="price">75€<span>/month</span></div>
-                                <a href="sign-up.html" class="btn-solid-reg">Sign up</a>
+                                
                             </div>
                         </div>
                         <!-- end of card -->
@@ -536,10 +547,10 @@
                             <!-- Accordion Item -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">How can I contact you quickly and get a reasonable quote more for my project?</button>
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">¿Qué bono elegir?</button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">Sed lacinia cursus viverra. Nunc sed libero euismod, congue dui a, vulputate quam. Pellentesque neque nisi, ultrices ut ipsum ac, mattis sollicitudin neque. Ut ac nunc sem. Etiam id erat facilisis magna sagittis porta. Donec eu dolor eu dolor finibus sodales consectetur, et condimentum elit tincidunt</div>
+                                    <div class="accordion-body">El bono más demandado es de 12h/mes, distribuidas de dos clases de una hora y media semanales. No obstante, es fundamental analizar las circunstancias y nivel de cada un@ para poder hacer una correcta elección. </div>
                                 </div>
                             </div>
                             <!-- end of accordion-item -->
@@ -547,10 +558,10 @@
                             <!-- Accordion Item -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Is the Free Tier available for unlimited time or it will end more words after a while?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">¿Cuando se realiza el pago?</button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">Mauris faucibus placerat nisl. Sed eros odio, posuere at felis quis, tincidunt facilisis nibh. Nulla in ante sem. Nam aliquam urna nisi, cursus semper dolor convallis at. Duis vulputate est in consectetur, et condimentum elit tincidunt libero consectetur, et condimentum suis vulputate est in libero</div>
+                                    <div class="accordion-body">El abono se realizará del 1 al 10 de cada mes. Podrá ejecutarse mediante efectivo, Bizum o transferencia bancaria. También puedes solicitar la factura para tu declaracion de la renta.</div>
                                 </div>
                             </div>
                             <!-- end of accordion-item -->
@@ -558,10 +569,10 @@
                             <!-- Accordion Item -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Can I use the app on mobile devices or it’s limited more words to desktop use?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">¿Qué pasa sino puedo ir a clases?</button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">Nullam at diam at mi facilisis consectetur at non turpis. Proin a felis nisi. Sed at orci rutrum, tincidunt magna vel, pharetra libero. Proin mauris orci, faucibus eget malesuada vel, consectetur, et condimentum elit tincidunt pellentesque vitae ligula. Pellentesque euismod tincidun</div>
+                                    <div class="accordion-body">!No te preocupes¡<br>Sólo tienes que avisarnos con 24h de antelación y reprogramaremos tu clase. Las recuperaciones deberán hacerse efectivas en un plazo máximo de 2 meses desde el momento en que se aplaza.</div>
                                 </div>
                             </div>
                             <!-- end of accordion-item -->
