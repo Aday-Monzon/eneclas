@@ -588,18 +588,21 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <div class="footer-col first">
-                            <h6>Contacto</h6>
-                            <p class="p-small">Proin ut felis purus vestibulum in orci molestie, efficitur lacus ac pellentesque elit. Fusce mollis laoreet lobortis nulla ac efficitur lacus ac </p>
+                       <div class="footer-col first">
+                            <h6>Contacto</h6>             
+                                <p class=" text-white  mb-3 mt-4"><i class="fas fa-phone"></i> 662 27 85 83 / 928 016 749</p>
+                                <p class=" text-white  mb-3 mt-4"><i class="fas fa-envelope"></i><a href="mailto:estudioenaclas@gmail.com"><strong> estudioenaclas@gmail.com</strong></a></p>
+                                </p>
                         </div> <!-- end of footer-col -->
                         <div class="footer-col second">
                             <h6>Links</h6>
                             <ul class="list-unstyled li-space-lg p-small">
-                                <li>Important: <a href="terms.html">Terms & Conditions</a>, <a href="privacy.html">Privacy Policy</a></li>
-                                <li>Useful: <a href="#">Colorpicker</a>, <a href="#">Icon Library</a>, <a href="#">Illustrations</a></li>
-                                <li>Menu: <a href="#header">Home</a>, <a href="#features">Features</a>, <a href="#details">Details</a>, <a href="#pricing">Pricing</a></li>
+                                <li><a href="terms.html">Términos & Condiciones</a> </li>
+                                <li><a href="privacy.html">Política Privacidad</a></li>
+            
                             </ul>
                         </div> <!-- end of footer-col -->
+
                         <div class="footer-col third">
                             <span class="fa-stack">
                                 <a href="#your-link">
@@ -625,7 +628,7 @@
                                     <i class="fab fa-instagram fa-stack-1x"></i>
                                 </a>
                             </span>
-                            <p class="p-small">Quam posuerei pellent esque vam <a href="mailto:contact@site.com"><strong>contact@site.com</strong></a></p>
+                            
                         </div> <!-- end of footer-col -->
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
