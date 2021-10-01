@@ -295,31 +295,32 @@
             <div class="col-lg-8">
               <div class="contact-box p-4">
                 <h4 class="title">Contacta con nosotros</h4>
-                <form>
+                <form  action="{{url('contactos')}}" method="POST">
+                    @csrf
                   <div class="row">
                     <div class="col-lg-6">
                       <div class="form-group mt-3">                    
-                        <input class="form-control" type="text" placeholder="nombre">
+                        <input class="form-control" name="nombre" type="text" placeholder="nombre">
                       </div>
                     </div>
                     <div class="col-lg-6">
                       <div class="form-group mt-3">
-                        <input class="form-control" type="text" placeholder="email">
+                        <input class="form-control" type="text" name="email" placeholder="email">
                       </div>
                     </div>
                     <div class="col-lg-6">
                       <div class="form-group mt-3">
-                        <input class="form-control" type="text" placeholder="movil">
+                        <input class="form-control" type="text" name="telefono" placeholder="movil">
                       </div>
                     </div>
                     <div class="col-lg-6">
                       <div class="form-group mt-3">
-                        <input class="form-control" type="text" placeholder="asunto">
+                        <input class="form-control" type="text" name="asunto" placeholder="asunto">
                       </div>
                     </div>
                     <div class="col-lg-12">
                       <div class="form-group mt-3">
-                        <textarea class="form-control" rows="6"></textarea>
+                        <textarea class="form-control" name="mensaje" rows="6"></textarea>
                       </div>
                     </div>
                     <div class="col-lg-12">
@@ -327,6 +328,13 @@
                     </div>
                   </div>
                 </form>
+                @if (\Session::has('success'))
+                    <div class="alert alert-success">
+                        <ul>
+                            <li>{!! \Session::get('success') !!}</li>
+                        </ul>
+                    </div>
+                @endif
               </div>
             </div>
             <div class="col-lg-4 bg-image" style="background-image:url(https://cdn.pixabay.com/photo/2015/12/01/15/43/black-1072366_960_720.jpg)">

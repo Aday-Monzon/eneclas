@@ -1,6 +1,10 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Mail\ContactoMailable;
+use Illuminate\Support\Facades\Mail;
+use Illuminate\Http\Request;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -21,6 +25,12 @@ Route::get('/terminos', function () {
 });
 Route::get('/privacidad', function () {
     return view('privacidad');
+});
+Route::post('/contactos', function (Request $request) {
+    $correo = new ContactoMailable($request->all());
+    Mail::to('adaymonzon@gmail.com')->send($correo);
+
+    return redirect('/#contact')->with('success', 'Mensaje enviado con exito');
 });
 
 Auth::routes(['register' => false]);
