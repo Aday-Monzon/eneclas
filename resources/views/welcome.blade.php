@@ -35,7 +35,7 @@
                         
                         <!-- Card -->
                         <div class="card">
-                            <div class="card-icon">
+                            <div class="card-icon shake-slow">
                                 <img class="img-fluid" src="images/header-illustration.svg" alt="alternative">
                             </div>
                             <div class="card-body">
@@ -47,7 +47,7 @@
 
                         <!-- Card -->
                         <div class="card">
-                            <div class="card-icon green">
+                            <div class="card-icon green shake-slow">
                                 <img class="img-fluid" src="images/details-1.svg" alt="alternative">
                             </div>
                             <div class="card-body">
@@ -59,7 +59,7 @@
 
                         <!-- Card -->
                         <div class="card">
-                            <div class="card-icon blue">
+                            <div class="card-icon blue shake-slow">
                                 <img class="img-fluid" src="images/ReadingBooks.png" alt="alternative" style="padding-top: 11px;">
                                
                             </div>

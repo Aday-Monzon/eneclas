@@ -27,6 +27,7 @@
         <link href="css/fontawesome-all.min.css" rel="stylesheet">
         <link href="css/swiper.css" rel="stylesheet">
         <link href="css/styles.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="https://csshake.surge.sh/csshake.min.css">
         
         <!-- Favicon  -->
         <link rel="icon" href="images/favicon.ico">
