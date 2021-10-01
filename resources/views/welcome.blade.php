@@ -36,7 +36,7 @@
                         <!-- Card -->
                         <div class="card">
                             <div class="card-icon">
-                                <span class="fas fa-laptop"></span>
+                                <img class="img-fluid" src="images/header-illustration.svg" alt="alternative">
                             </div>
                             <div class="card-body">
                                 <h4 class="card-title">Plataforma Digital</h4>
@@ -48,7 +48,7 @@
                         <!-- Card -->
                         <div class="card">
                             <div class="card-icon green">
-                                <span class="far fa-clipboard"></span>
+                                <img class="img-fluid" src="images/details-1.svg" alt="alternative">
                             </div>
                             <div class="card-body">
                                 <h4 class="card-title">Técnicas de Estudio</h4>
@@ -60,7 +60,8 @@
                         <!-- Card -->
                         <div class="card">
                             <div class="card-icon blue">
-                                <span class="fas fa-university"></span>
+                                <img class="img-fluid" src="images/ReadingBooks.png" alt="alternative" style="padding-top: 11px;">
+                               
                             </div>
                             <div class="card-body">
                                 <h4 class="card-title">Clases Reducidas</h4>
