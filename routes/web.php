@@ -16,6 +16,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/terminos', function () {
+    return view('terminos');
+});
+Route::get('/privacidad', function () {
+    return view('privacidad');
+});
 
 Auth::routes(['register' => false]);
 

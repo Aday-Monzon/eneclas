@@ -100,8 +100,8 @@
                         <div class="footer-col second">
                             <h6>Links</h6>
                             <ul class="list-unstyled li-space-lg p-small">
-                                <li><a href="terms.html">Términos & Condiciones</a> </li>
-                                <li><a href="privacy.html">Política Privacidad</a></li>
+                                <li><a href="{{url('/terminos')}}">Términos & Condiciones</a> </li>
+                                <li><a href="{{url('/privacidad')}}">Política Privacidad</a></li>
             
                             </ul>
                         </div> <!-- end of footer-col -->
