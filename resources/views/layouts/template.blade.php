@@ -102,6 +102,7 @@
                             <ul class="list-unstyled li-space-lg p-small">
                                 <li><a href="{{url('/terminos')}}">Términos & Condiciones</a> </li>
                                 <li><a href="{{url('/privacidad')}}">Política Privacidad</a></li>
+                                <li><a href="{{url('/cookies')}}">Política de Cookies</a></li>
             
                             </ul>
                         </div> <!-- end of footer-col -->

@@ -20,6 +20,9 @@ use Illuminate\Http\Request;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/cookies', function () {
+    return view('cookies');
+});
 Route::get('/terminos', function () {
     return view('terminos');
 });

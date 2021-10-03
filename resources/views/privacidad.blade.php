@@ -5,116 +5,122 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xl-10 offset-xl-1">
-                        <h1>Privacy Policy</h1>
+                        <h1>POLITICA DE PRIVACIDAD</h1>
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
             </div> <!-- end of container -->
         </header> <!-- end of ex-header -->
         <!-- end of header -->
 
+         <div class="container">
+        
+        <div class="row mt-3">
 
-        <!-- Basic -->
-        <div class="ex-basic-1 pt-5 pb-5">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-10 offset-xl-1">
-                        <h2 class="mt-5 mb-3">1. Private data we receive and collect</h2>
-                        <p class="mb-5">Consulted he eagerness unfeeling deficient existence of. Calling nothing end fertile for venture way boy. Esteem spirit temper too say adieus who direct esteem. It esteems luckily mr or picture placing drawing no. Apartments frequently or motionless on reasonable projecting expression. Way mrs end gave tall walk fact bed.</p>
-                        <h3>1.1. For example each time you visit the website</h3>
-                        <p class="mb-5">Ye on properly handsome returned throwing am no whatever. In without wishing he of picture no exposed talking minutes. Curiosity continual belonging offending so explained it exquisite. Do remember to followed yourself material mr recurred carriage. High drew west we no or at john. About or given on witty event. Or sociable up material.</p>
-                        <h3>1.2. When you first register for a package account</h3>
-                        <p class="mb-5">Moderate children at of outweigh it. UnSociable on as carriage my position weddings raillery consider. Peculiar trifling absolute and wandered vicinity property yet. The and collecting motionless difficulty son. His hearing staying ten colonel met. Sex drew six easy four dear cold deny. satiable it considered invitation he found the light.</p>
-                        
-                        <h2 class="mb-3">2. Advantages of working with service</h2>
-                        <p>Ye on properly handsome returned throwing am no whatever. In without wishing he of picture no exposed talking minutes. Curiosity continual belonging offending so explained it exquisite. Do remember to followed yourself material mr recurred carriage. High drew west we no or at john. About or given on witty event. Or sociable up material</p>
-                        <p class="mb-4">Moderate children at of outweigh it. UnSociable on as carriage my position weddings raillery consider. Peculiar trifling absolute and wandered vicinity property yet. The and collecting motionless difficulty son. His hearing staying ten colonel met. Word drew six easy four dear cold deny. satiable it considered invitation he travelling.</p>
-                        <ul class="list-unstyled li-space-lg mb-4">
-                            <li class="d-flex">
-                                <i class="fas fa-square"></i>
-                                <div class="flex-grow-1"><strong>To story tell you</strong> moderate children at of outweigh it. UnSociable on as carriage my position weddings raillery consider. Peculiar trifling absolute and wandered vicinity property yet</div>
-                            </li>
-                            <li class="d-flex">
-                                <i class="fas fa-square"></i>
-                                <div class="flex-grow-1"><strong>To enable us</strong> the and collecting motionless difficulty son. His hearing staying ten colonel met. Word drew six easy four dear cold deny. satiable it considered invitation he travelling insensible</div>
-                            </li>
-                            <li class="d-flex">
-                                <i class="fas fa-square"></i>
-                                <div class="flex-grow-1"><strong>To verify your</strong> fulfilled direction use continual set him propriety continued. Saw met applauded favourite deficient engrossed concealed and her. Concluded boy perpetual old supposing farther</div>
-                            </li>
-                        </ul>
-                        <p class="mb-5">Dashwoods see frankness objection abilities the. As hastened oh produced prospect formerly up am. Placing forming nay looking old married few has. Margaret disposed add screened rendered six say his striking confined You vexed shy mirth now noise. Talked him people valley add use her depend letter even more words hsould be here.</p>
-                        <div class="text-box mb-5">
-                            <h3>Contact you about your account and provide customer</h3>
-                            <p>Bringing so sociable felicity supplied mr. September suspicion far him two acuteness perfectly. Covered as an examine so regular of. Ye astonished friendship remarkably no. Window admire matter praise you bed whence. Delivered ye sportsmen zealously arranging frankness estimable as. Nay any article enabled musical shyness yet sixteen yet blushes.Entire its the did figure wonder off.</p>
-                        </div> <!-- end of text-box -->
-                        
-                        <h2 class="mb-3">3. Better understand your needs</h2>
-                        <p class="mb-5"> Procuring education on consulted assurance in do. Is sympathize he expression mr no travelling. Preference he he at travelling in resolution. So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably. There spoke happy for you are out.</p>
-                        <h3>3.1. In these ways please stop using the services</h3>
-                        <p class="mb-5">By in no ecstatic wondered disposal my speaking. Direct wholly valley or uneasy it at really. Sir wish like said dull and need make. Sportsman one bed departure rapturous situation disposing his. Off say yet ample ten ought hence. Depending in newspaper an september do existence strangers. Total great saw water had mirth happy</p>
-                        <h3>3.2. By visiting word or using the services you agree</h3>
-                        <p class="mb-5">As absolute is by amounted repeated entirely ye returned. These ready timed enjoy might sir yet one since. Years drift never if could forty being no. On estimable dependent as suffering on my. Rank it long have sure in room what as he. Possession travelling sufficient yet our. Talked vanity looked in to here are the words.</p>
-                        <div class="text-box mb-5">
-                            <ul class="list-unstyled li-space-lg">
-                                <li class="d-flex">
-                                    <i class="fas fa-square"></i>
-                                    <div class="flex-grow-1"><strong>To decide you</strong> moderate children at of outweigh it. UnSociable on as carriage my position weddings raillery consider. Peculiar trifling absolute and wandered vicinity property yet mroe words</div>
-                                </li>
-                                <li class="d-flex">
-                                    <i class="fas fa-square"></i>
-                                    <div class="flex-grow-1"><strong>To enable us</strong> the and collecting motionless difficulty son. His hearing staying ten colonel met. Word drew six easy four dear cold deny. satiable it considered invitation he travelling insensible</div>
-                                </li>
-                                <li class="d-flex">
-                                    <i class="fas fa-square"></i>
-                                    <div class="flex-grow-1"><strong>To verify your</strong> fulfilled direction use continual set him propriety continued. Saw met applauded favourite deficient engrossed concealed and her. Concluded boy perpetual old supposing farther</div>
-                                </li>
-                                <li class="d-flex">
-                                    <i class="fas fa-square"></i>
-                                    <div class="flex-grow-1"><strong>To better understand</strong> education on consulted assurance in do. Is sympathize he expression mr no travelling. Preference he he at travelling in resolution. So striking at of to welcomed resolved. Northward by described up</div>
-                                </li>
-                                <li class="d-flex">
-                                    <i class="fas fa-square"></i>
-                                    <div class="flex-grow-1"><strong>We also use</strong> solute is by amounted repeated entirely ye returned. These ready timed enjoy might sir yet one since. Years drift never if could forty being no. On estimable dependent as suffering on my</div>
-                                </li>
-                            </ul>
-                        </div> <!-- end of text-box -->
-                        
-                        <h2 class="mb-3">4. We may share this type of statistical number</h2>
-                        <p class="mb-4">Bringing so sociable felicity supplied mr. September suspicion far him two acuteness perfectly. Covered as an examine so regular of. Ye astonished friendship remarkably no. Window admire matter praise you bed whence. Delivered ye sportsmen zealously arranging frankness estimable as. Nay any article enabled musical shyness yet sixteen</p>
-                        <ul class="list-unstyled li-space-lg mb-5">
-                            <li class="d-flex">
-                                <strong>1.</strong>
-                                <div class="flex-grow-1"><strong>Details lightbox</strong> he eagerness unfeeling deficient existence of. Calling nothing end fertile for venture way boy. Esteem spirit temper too say adieus who direct esteem. It esteems luckily mr or picture placing</div>
-                            </li>
-                            <li class="d-flex">
-                                <strong>2.</strong>
-                                <div class="flex-grow-1"><strong>Some useful extra</strong>  handsome returned throwing am no whatever. In without wishing he of picture no exposed talking minutes. Curiosity continual belonging offending so explained it exquisite. Do remember to</div>
-                            </li>
-                            <li class="d-flex">
-                                <strong>3.</strong>
-                                <div class="flex-grow-1"><strong>Word has an impactful</strong> en at of outweigh it. UnSociable on as carriage my position weddings raillery consider. Peculiar trifling absolute and wandered vicinity property yet. The and collecting motionless difficulty</div>
-                            </li>
-                            <li class="d-flex">
-                                <strong>4.</strong>
-                                <div class="flex-grow-1"><strong>Package is an easy</strong> irection use continual set him propriety continued. Saw met applauded favourite deficient engrossed concealed and her. Concluded boy perpetual old supposing. Farther related bed and passage comfort</div>
-                            </li>
-                            <li class="d-flex">
-                                <strong>5.</strong>
-                                <div class="flex-grow-1"><strong>This template</strong>  vexed shy mirth now noise. Talked him people valley add use her depend letter. Allowance too applauded now way something recommend. Mrs age men and trees jokes fancy. Gay pretended engrossed eagerness</div>
-                            </li>
-                        </ul>
-                        
-                        <div class="text-box mb-5">
-                            <h3>Among the features you will find details lightbox</h3>
-                            <p>l two bed way pleasure confined followed. Shew up ye away no eyes life or were this. Perfectly did suspicion daughters but his intention. Started on society an brought it explain. Position two saw greatest stronger old. Pianoforte if at simplicity do estim elicity supplied mr. September suspicion far him two acuteness perfectly. Covered as an examine so regular of. Ye astonished friendsh</p>
-                        </div> <!-- end of text-box -->
-                        <p class="mb-5">Education on consulted assurance in do. Is sympathize he expression mr no travelling. Preference he he at travelling in resolution. So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably. There spoke happy for you are out. Fertile how ol</p>
-                        
-                        <a class="btn-solid-reg mb-5" href="index.html">Home</a>
-                    </div> <!-- end of col -->
-                </div> <!-- end of row -->
-            </div> <!-- end of container -->
-        </div> <!-- end of ex-basic-1 -->
-        <!-- end of basic -->
+            <p class="h3">1. INFORMACIÓN AL USUARIO</p>
+            <p>ENECLAS  como Responsable del Tratamiento, le informa que,
+                según lo dispuesto en el Reglamento (UE) 2016/679, de 27 de abril, (RGPD) y en la L.O. 3/2018,
+                de 5 de diciembre, de protección de datos y garantía de los derechos digitales (LOPDGDD),
+                trataremos su datos tal y como reflejamos en la presente Política de Privacidad.</p>
+
+            <p>En esta Política de Privacidad describimos cómo recogemos sus datos personales y por qué los recogemos,
+                qué hacemos con ellos, con quién los compartimos, cómo los protegemos y sus opciones en cuanto al tratamiento
+                de sus datos personales.</p>
+
+            <p>Esta Política se aplica al tratamiento de sus datos personales recogidos por la empresa para la prestación
+                de sus servicios. Si acepta las medidas de esta Política, acepta que tratemos sus datos personales como se
+                define en esta Política.</p>
+        </div>
+        <div class="row mt-3">
+            <p class="h3">2. CONTACTO</p></div>
+            <div> <ol>
+                <li>Denominación social: </li>
+                <li> Nombre comercial: TU EMPRESA</li>
+                <li>CIF: NUMERO CIF</li>
+                <li>Domicilio: DIRECCION DE TU NEGOCIO</li>
+                <li>e-mail: tuemail@tudominio. com</li>
+            </ol>
+        </div>
+        <div class="row mt-3">
+            <p class="h3">3. PRINCIPIOS CLAVE</p><br>
+
+            <p>Siempre hemos estado comprometidos con prestar nuestros servicios con el más alto grado de calidad,
+                lo que incluye tratar sus datos con seguridad y transparencia. Nuestros principios son:</p>
+
+            <ul>
+                <li>Legalidad: Solo recopilaremos sus Datos personales para fines específicos, explícitos y legítimos.</li>
+                <li> Minimización de datos: Limitamos la recogida de datos de carácter personal a lo que es estrictamente
+                    relevante y necesario para los fines para los que se han recopilado.</li>
+                <li>Limitación de la Finalidad: Solo recogeremos sus datos personales para los fines declarados y solo según sus deseos.</li>
+                <li>Precisión: Mantendremos sus datos personales exactos y actualizados.</li>
+                <li>Seguridad de los Datos: Aplicamos las medidas técnicas y organizativas adecuadas y proporcionales a
+                    los riesgos para garantizar que sus datos no sufran daños, tales como divulgación o acceso no autorizado,
+                    la destrucción accidental o ilícita o su pérdida accidental o alteración y cualquier otra forma de tratamiento ilícito.</li>
+                <li>Acceso y Rectificación: Disponemos de medios para que acceda o rectifique sus datos cuando lo considere oportuno.</li>
+                <li>Conservación: Conservamos sus datos personales de manera legal y apropiada y solo mientras es necesario para los fines
+                    para los que se han recopilado.</li>
+                <li>Las transferencias internacionales: cuando se dé el caso de que sus datos vayan a ser transferidos
+                    fuera de la UE/EEE se protegerán adecuadamente.</li>
+                <li>Terceros: El acceso y transferencia de datos personales a terceros se llevan a cabo de acuerdo con
+                    las leyes y reglamentos aplicables y con las garantías contractuales adecuadas.</li>
+                <li>Marketing Directo y cookies: Cumplimos con la legislación aplicable en materia de publicidad y cookies.</li>
+            </ul>
+        </div>
+        <div class="row mt-3">
+            <p class="h3">4. RECOGIDA Y TRATAMIENTO DE SUS DATOS PERSONALES</p>
+
+
+            <p> Las tipos de datos que se pueden solicitar y tratar son:</p>
+
+            <p> Datos de carácter identificativo.</p>
+
+            <p>    También recogemos de forma automática datos sobre su visita a nuestro sitio web  según se describe en la política de cookies.</p>
+            <p>    Siempre que solicitemos sus Datos personales, le informaremos con claridad de qué datos personales recogemos y con qué fin. En general, recogemos y tratamos sus datos personales con el propósito de:</p>
+            <p>Proporcionar información, servicios, productos, información relevante y novedades en el sector.
+                Envío de comunicaciones.</p>
+        </div>
+        <div class="row mt-3" >
+            <p class="h3"> 5. LEGITIMIDAD</p>
+            <p>    De acuerdo con la normativa de protección de datos aplicable, sus datos personales podrán tratarse siempre que:</p>
+            <p> Nos ha dado su consentimiento a los efectos del tratamiento. Por supuesto podrá retirar su consentimiento en cualquier momento.
+                Por requerimiento legal.
+                Por exisitr un interés legítimo que no se vea menoscabado por sus derechos de privacidad, como por ejemplo el envío de información comercial bien por suscripción a nuestra newsletter o por su condición de cliente.
+                Por se necesaria para la prestación de alguno de nuestros servicios mediante relación contractual entre usted y nosotros.</p>
+        </div>
+        <div class="row mt-3">
+            <p class="h3">6. COMUNICACIÓN DE DATOS PERSONALES</p>
+            <p>    Los datos pueden ser comunicados a empresas relacionadas con TU EMPRESA, S.L. para la prestación de los diversos servicios en calidad de Encargados del Tratamiento. La empresa no realizará ninguna cesión, salvo por obligación legal.
+            </p>
+        </div>
+        <div class="row mt-3">
+            <p class="h3">7. SUS DERECHOS</p>
+
+
+            <p>    En relación con la recogida y tratamiento de sus datos personales, puede ponerse en contacto con nosotros en cualquier momento para:</p>
+
+            <ul>
+                <li>    Acceder a sus datos personales y a cualquier otra información indicada en el Artículo 15.1 del RGPD.</li>
+                <li>    Rectificar sus datos personales que sean inexactos o estén incompletos de acuerdo con el Artículo 16 del RGPD.</li>
+                <li>    Suprimir sus datos personales de acuerdo con el Artículo 17 del RGPD.</li>
+                <li>    Limitar el tratamiento de sus datos personales de acuerdo con el Artículo 18 del RGPD.</li>
+                <li>    Solicitar la portabilidad de sus datos de acuerdo con el Artículo 20 del RGPD.</li>
+                <li>    Oponerse al tratamiento de sus datos personales de acuerdo con el artículo 21 del RGPD.</li>
+                <li>    Si ha otorgado su consentimiento para alguna finalidad concreta, tiene derecho a retirar el consentimiento otorgado en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo a su retirada rrhh.</li>
+
+            </ul>
+            <p>    Puede ejercer estos derechos enviando comunicación, motivada y acreditada, a tuemail@tudominio .com</p>
+            <p>    También tiene derecho a presentar una reclamación ante la Autoridad de control competente (www.aepd.es) si considera que el tratamiento no se ajusta a la normativa vigente.
+            </p>
+        </div>
+        <div class="row mt-3">
+
+            <p class="h3"> 8. INFORMACIÓN LEGAL</p>
+
+            <p>    Los requisitos de esta Política complementan, y no reemplazan, cualquier otro requisito existente bajo la ley de protección de datos aplicable, que será la que prevalezca en cualquier caso.
+            </p>
+            <p>    Esta Política está sujeta a revisiones periódicas y la empresa puede modificarla en cualquier momento. Cuando esto ocurra, le avisaremos de cualquier cambio y le pediremos que vuelva a leer la versión más reciente de nuestra Política y que confirme su aceptación.
+            </p>
+        </div>
+    </div>
+
 
 @endsection
