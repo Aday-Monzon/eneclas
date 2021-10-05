@@ -349,7 +349,7 @@
                 <p class=" text-white op-7">estudioenaclas@gmail.com
                   </p>
                 <div class="round-social light">
-                  <a href="#" class="ml-0 text-decoration-none text-white border border-white rounded-circle"><i class="fab fa-facebook-square"></i></i></a>
+                  <a href="https://www.facebook.com/estudios.enaclas" class="ml-0 text-decoration-none text-white border border-white rounded-circle"><i class="fab fa-facebook-square"></i></i></a>
                   <a href="#" class="text-decoration-none text-white border border-white rounded-circle"><i class="fab fa-twitter-square"></i></a>
                   <a href="#" class="text-decoration-none text-white border border-white rounded-circle"><i class="fab fa-linkedin"></i></a>
                 </div>

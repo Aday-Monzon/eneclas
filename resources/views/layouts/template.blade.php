@@ -40,7 +40,7 @@
 
                 <!-- Image Logo -->
                 
-                <a class="navbar-brand logo-text" href="index.html" style="font-family: 'Lexend Giga', sans-serif;">ENACLAS</a>
+                <a class="navbar-brand logo-text" href="{{url('/')}}" style="font-family: 'Lexend Giga', sans-serif;">ENACLAS</a>
                 <!-- Text Logo - Use this if you don't have a graphic logo -->
                 <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/1sinfondo.png" alt="alternative"></a>  -->
 
@@ -109,7 +109,7 @@
 
                         <div class="footer-col third">
                             <span class="fa-stack">
-                                <a href="#your-link">
+                                <a href="https://www.facebook.com/estudios.enaclas">
                                     <i class="fas fa-circle fa-stack-2x"></i>
                                     <i class="fab fa-facebook-f fa-stack-1x"></i>
                                 </a>
@@ -121,7 +121,7 @@
                                 </a>
                             </span>
                             <span class="fa-stack">
-                                <a href="#your-link">
+                                <a href="https://www.pinterest.es/enaclas/">
                                     <i class="fas fa-circle fa-stack-2x"></i>
                                     <i class="fab fa-pinterest-p fa-stack-1x"></i>
                                 </a>

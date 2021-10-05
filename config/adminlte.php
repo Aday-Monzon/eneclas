@@ -232,7 +232,12 @@ return [
             'topnav_right' => true,
         ],
         [
-            'text' => 'Link 1',
+            'text' => 'Alumnos',
+            'url' => '#',
+            'topnav' => true,
+        ],
+        [
+            'text' => 'Profesores',
             'url' => '#',
             'topnav' => true,
         ],
