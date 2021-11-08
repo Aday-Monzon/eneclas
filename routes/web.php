@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Admin\HomeController;
+use App\Http\Controllers\AlumnoController;
 use Illuminate\Support\Facades\Route;
 use App\Mail\ContactoMailable;
 use Illuminate\Support\Facades\Mail;
@@ -41,3 +42,5 @@ Auth::routes(['register' => false]);
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 Route::get('/admin', [App\Http\Controllers\Admin\HomeController::class, 'index'])->name('admin');
+
+// Route::resource('/alumnos', AlumnoController::class);
