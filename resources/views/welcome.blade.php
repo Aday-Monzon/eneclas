@@ -121,10 +121,10 @@
                                     <i class="fas fa-chevron-right"></i>
                                     <div class="flex-grow-1">En el aula podrá intercambiar opiniones e interactuar con los profesores.</div>
                                 </li>
-                                <li class="d-flex">
+                                {{-- <li class="d-flex">
                                     <i class="fas fa-chevron-right"></i>
                                     <div class="flex-grow-1">Sapien condimentum sacoz sil necr</div>
-                                </li>
+                                </li> --}}
                                 
                             </ul>
                             <a id="modalCtaBtn" class="btn-solid-reg" href="#your-link">Acceder</a>
@@ -171,7 +171,7 @@
 
 
         <!-- Testimonials -->
-        <div class="slider-1 bg-gray">
+        {{-- <div class="slider-1 bg-gray">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -272,7 +272,7 @@
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
             </div> <!-- end of container -->
-        </div> <!-- end of slider-1 -->
+        </div> <!-- end of slider-1 --> --}}
         <!-- end of testimonials -->
 
 
