@@ -185,12 +185,8 @@
                         <div class="slider-container">
                             <div class="swiper-container card-slider">
                                 <div class="swiper-wrapper">
-                                    @foreach ($post as $item)
-                                      @if (isset($item))
-                                          
-                                       
-                                   
-                                    <!-- Slide -->
+                                     @forelse ($post as $item)
+                                         <!-- Slide -->
                                     <div class="swiper-slide">
                                         <div class="card">
                                             <img class="card-image" src="images/{{$item->image}}" alt="alternative">
@@ -201,10 +197,16 @@
                                         </div>
                                     </div> <!-- end of swiper-slide -->
                                     <!-- end of slide -->
-                                    @endif 
-                                     @endforeach
-            
-                            
+                                    @empty
+                                         <!-- Slide -->
+                                    <div class="swiper-slide">
+                                        <div class="card">
+                                            
+                                        </div>
+                                    </div> <!-- end of swiper-slide -->
+                                    <!-- end of slide -->
+                                    @endforelse 
+                                    
                                 
                                 </div> <!-- end of swiper-wrapper -->
             
