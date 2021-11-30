@@ -4,6 +4,7 @@ use App\Http\Controllers\Admin\HomeController;
 use App\Http\Controllers\AlumnoController;
 use Illuminate\Support\Facades\Route;
 use App\Mail\ContactoMailable;
+use App\Models\Post;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Http\Request;
 
@@ -20,7 +21,8 @@ use Illuminate\Http\Request;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    $post = Post::all();
+    return view('welcome', compact('post'));
 });
 Route::get('/cookies', function () {
     return view('cookies');

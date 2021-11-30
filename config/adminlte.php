@@ -237,6 +237,11 @@ return [
             'topnav' => true,
         ],
         [
+            'text' => 'Posts',
+            'url' => 'admin/posts',
+            'topnav' => true,
+        ],
+        [
             'text' => 'Profesores',
             'url' => 'admin/profesores',
             'topnav' => true,
