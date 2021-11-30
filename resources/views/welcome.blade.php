@@ -186,7 +186,9 @@
                             <div class="swiper-container card-slider">
                                 <div class="swiper-wrapper">
                                     @foreach ($post as $item)
-                                        
+                                      @if (isset($item))
+                                          
+                                       
                                    
                                     <!-- Slide -->
                                     <div class="swiper-slide">
@@ -199,6 +201,7 @@
                                         </div>
                                     </div> <!-- end of swiper-slide -->
                                     <!-- end of slide -->
+                                    @endif 
                                      @endforeach
             
                             
