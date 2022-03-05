@@ -7,7 +7,7 @@
         <!-- SEO Meta Tags -->
         <meta name="description" content="Your description">
         <meta name="author" content="Your name">
-
+        <meta name="google-site-verification" content="RBB0cUvyTXEF2VebliyuwUrd4B7nw0t1y41BTsVUcdE" />
         <!-- OG Meta Tags to improve the way the post looks when you share the page on Facebook, Twitter, LinkedIn -->
         <meta property="og:site_name" content="Centro de Estudios Enaclas" /> <!-- website name -->
         <meta property="og:site" content="centrodeestudiosenaclas.es" /> <!-- website link -->
