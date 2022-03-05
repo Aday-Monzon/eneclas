@@ -39,7 +39,7 @@ Route::post('/contactos', function (Request $request) {
 
     return redirect('/#contact')->with('success', 'Mensaje enviado con exito');
 });
-
+Route::get('/blog', [App\Http\Controllers\BlogController::class, 'index'])->name('blog');
 Auth::routes(['register' => false]);
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

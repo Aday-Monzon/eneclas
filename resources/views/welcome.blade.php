@@ -175,7 +175,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h2 class="h2-heading">Blog</h2>
+                        <h2 class="h2-heading">Tablón</h2>
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
                 <div class="row">
@@ -191,8 +191,9 @@
                                         <div class="card">
                                             <img class="card-image" src="images/{{$item->image}}" alt="alternative">
                                             <div class="card-body">
-                                                <p class="testimonial-text">{{$item->content}}</p>
                                                 <p class="testimonial-author">{{$item->title}}</p>
+                                                <p class="testimonial-text">{{$item->content}}</p>
+                                                
                                             </div>
                                         </div>
                                     </div> <!-- end of swiper-slide -->

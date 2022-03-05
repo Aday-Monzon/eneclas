@@ -63,6 +63,9 @@
                             <a class="nav-link" href="#contacto">Contacto</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link" href="{{route('blog')}}">Blog</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="#pricing">Precios</a>
                         </li>
                         {{-- <li class="nav-item dropdown">
