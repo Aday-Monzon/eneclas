@@ -23,7 +23,7 @@ use Illuminate\Http\Request;
 Route::get('/', function () {
     $post = Post::all();
     return view('welcome', compact('post'));
-});
+})->name('/');
 Route::get('/cookies', function () {
     return view('cookies');
 });

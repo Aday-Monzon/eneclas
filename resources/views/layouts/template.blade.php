@@ -51,22 +51,22 @@
                 <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
                     <ul class="navbar-nav ms-auto navbar-nav-scroll">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#header">Home</a>
+                            <a class="nav-link active" aria-current="page" href="{{route('/')}}#header">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#features">Servicios</a>
+                            <a class="nav-link" href="{{route('/')}}#features">Servicios</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#details">Details</a>
+                            <a class="nav-link" href="{{route('/')}}#details">Details</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#contacto">Contacto</a>
+                            <a class="nav-link" href="{{route('/')}}#contacto">Contacto</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{route('blog')}}">Blog</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#pricing">Precios</a>
+                            <a class="nav-link" href="{{route('/')}}#pricing">Precios</a>
                         </li>
                         {{-- <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">Drop</a>
