@@ -79,9 +79,9 @@
                             </ul>
                         </li> --}}
                     </ul>
-                    <span class="nav-item">
+                    {{-- <span class="nav-item">
                         <a class="btn-outline-sm" href="#">Aula Virtual</a>
-                    </span>
+                    </span> --}}
                 </div> <!-- end of navbar-collapse -->
             </div> <!-- end of container -->
         </nav> <!-- end of navbar -->

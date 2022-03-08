@@ -189,12 +189,15 @@
                                          <!-- Slide -->
                                     <div class="swiper-slide">
                                         <div class="card">
-                                            <img class="card-image" src="images/{{$item->image}}" alt="alternative">
-                                            <div class="card-body">
-                                                <p class="testimonial-author">{{$item->title}}</p>
-                                                <p class="testimonial-text">{{$item->content}}</p>
-                                                
-                                            </div>
+                                            <figure class="snip1567">
+                                            <img src="images/{{$item->image}}" alt="sample88" />
+                                            <figcaption>
+                                                <h3>{{$item->title}}</h3>
+                                                <p>{{$item->content}}</p>
+                                            </figcaption>
+                                            <div class="hover"></div><i class="ion-android-add"></i>
+                                            <a href="{{route('blog')}}"></a>
+                                            </figure>
                                         </div>
                                     </div> <!-- end of swiper-slide -->
                                     <!-- end of slide -->
@@ -460,3 +463,11 @@
         </div> <!-- end of accordion-1 -->
         <!-- end of questions -->
 @endsection
+
+<script>
+    $(".hover").mouseleave(
+  function () {
+    $(this).removeClass("hover");
+  }
+);
+</script>
