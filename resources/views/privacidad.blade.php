@@ -33,11 +33,11 @@
         <div class="row mt-3">
             <p class="h3">2. CONTACTO</p></div>
             <div> <ol>
-                <li>Denominación social: </li>
-                <li> Nombre comercial: TU EMPRESA</li>
+                <li>Denominación social:Enaclas </li>
+                <li> Nombre comercial: Enaclas</li>
                 <li>CIF: NUMERO CIF</li>
-                <li>Domicilio: DIRECCION DE TU NEGOCIO</li>
-                <li>e-mail: tuemail@tudominio. com</li>
+                <li>Domicilio: C. Isla de el Hierro, 35217 Valsequillo, Las Palmas</li>
+                <li>e-mail: estudioenaclas@gmail.com</li>
             </ol>
         </div>
         <div class="row mt-3">
