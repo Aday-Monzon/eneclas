@@ -338,7 +338,7 @@
                                     <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Clases Sueltas</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
                                 </div>
                                 <div class="price">15€</div>
-                                <a href="sign-up.html" class="btn-solid-reg">Sign up</a>
+                                {{-- <a href="sign-up.html" class="btn-solid-reg">Sign up</a> --}}
                             </div>
                         </div>
                         <!-- end of card -->
@@ -350,7 +350,7 @@
                                     <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Bono 4 Horas</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
                                 </div>
                                 <div class="price">55€<span>/mes</span></div>
-                                <a href="sign-up.html" class="btn-solid-reg">Sign up</a>
+                                {{-- <a href="sign-up.html" class="btn-solid-reg">Sign up</a> --}}
                             </div>
                         </div>
                         <!-- end of card -->
@@ -362,7 +362,7 @@
                                     <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Bono 8 Horas</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
                                 </div>
                                 <div class="price">90€<span>/mes</span></div>
-                                <a href="sign-up.html" class="btn-solid-reg">Sign up</a>
+                                {{-- <a href="sign-up.html" class="btn-solid-reg">Sign up</a> --}}
                             </div>
                         </div>
                         <!-- end of card -->
@@ -374,7 +374,7 @@
                                     <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Bono 12 Horas</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
                                 </div>
                                 <div class="price">110€<span>/mes</span></div>
-                                <a href="sign-up.html" class="btn-solid-reg">Sign up</a>
+                                {{-- <a href="sign-up.html" class="btn-solid-reg">Sign up</a> --}}
                             </div>
                         </div>
                         <!-- end of card -->
@@ -385,7 +385,7 @@
                                     <img class="decoration-lines" src="images/decoration-lines.svg" alt="alternative"><span>Bono 16 Horas</span><img class="decoration-lines flipped" src="images/decoration-lines.svg" alt="alternative">
                                 </div>
                                 <div class="price">135€<span>/mes</span></div>
-                                <a href="sign-up.html" class="btn-solid-reg">Sign up</a>
+                                {{-- <a href="sign-up.html" class="btn-solid-reg">Sign up</a> --}}
                             </div>
                         </div>
                         <!-- end of card -->
