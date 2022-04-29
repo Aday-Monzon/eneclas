@@ -169,7 +169,15 @@
         </div> <!-- end of basic-2 -->
         <!-- end of details 2 -->
 
+        <!-- Publicidad -->
 
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col" style="padding-left: 180px;">
+                         <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ur1&category=prime_student&banner=04E4YST7J9TCC3S73ZR2&f=ifr&linkID=a7e58da8bd8385ff337092b4e8cfd782&t=enaclas-21&tracking_id=enaclas-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"></iframe>
+                    </div>
+                </div>
+            </div>
         <!-- Testimonials -->
          <div class="slider-1 bg-gray">
             <div class="container">
