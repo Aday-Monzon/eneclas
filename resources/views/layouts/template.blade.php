@@ -42,6 +42,8 @@ _iub.csConfiguration = {"ccpaAcknowledgeOnDisplay":true,"ccpaApplies":true,"cons
 <script type="text/javascript" src="//cdn.iubenda.com/cs/tcf/safe-tcf-v2.js"></script>
 <script type="text/javascript" src="//cdn.iubenda.com/cs/ccpa/stub.js"></script>
 <script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1655619691421145"
+     crossorigin="anonymous"></script>
     </head>
     <body data-bs-spy="scroll" data-bs-target="#navbarExample">
         
