@@ -6,7 +6,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="text-container">
-                            <h1 class="h1-large">Centro de Estudios<br>Curso 2021/22 <span style="font-family: 'Lexend Giga', sans-serif;" class="replace-me">Matrículas abiertas</span></h1>
+                            <h1 class="h1-large">Centro de Estudios<br>Curso 2022/23 <span style="font-family: 'Lexend Giga', sans-serif;" class="replace-me">Matrículas abiertas</span></h1>
                             <p class="p-large">Plazas limitadas<br>Primaria - Secundaria- Bachillerato - Universidad</p>
                             {{-- <a class="btn-solid-lg" href="sign-up.html">Sign up for free</a> --}}
                         </div> <!-- end of text-container -->
@@ -169,7 +169,7 @@
         </div> <!-- end of basic-2 -->
         <!-- end of details 2 -->
 
-        <!-- Publicidad -->
+        <!-- Publicidad 
 
             <div class="container d-none d-md-block d-xl-block" style="background-color: #90eefa">
                 <div class="row">
@@ -185,7 +185,7 @@
                         <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=42&l=ur1&category=prime_student&banner=0SAHQVJG83Q6BM8YE702&f=ifr&linkID=a8f8313d523055c54dbabab048e1e331&t=enaclas-21&tracking_id=enaclas-21" width="234" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"></iframe>
                     </div>
                 </div>
-            </div>
+            </div>-->
         <!-- Testimonials -->
          <div class="slider-1 bg-gray">
             <div class="container">

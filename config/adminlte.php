@@ -271,8 +271,8 @@ return [
         ],
         ['header' => 'account_settings'],
         [
-            'text' => 'profile',
-            'url'  => 'admin/settings',
+            'text' => 'Crear Usuario',
+            'url'  => 'admin/registro',
             'icon' => 'fas fa-fw fa-user',
         ],
         [

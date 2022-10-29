@@ -3,12 +3,16 @@
 @section('content')
     <header class="ex-header">
         <div class="container">
-           <h1>Blog</h1>
+            <div class="row">
+                <div class="col-xl-10 offset-xl-1">
+                    <h1>Blog</h1>
+                </div>
+            </div>          
         </div>
     </header>
     <div class="container">
                     
-            @foreach ($post as $item )
+            @foreach ($posts as $item )
                 @if ($item->id%2==0)
                 <div class="card m-3">
                     <div class="row g-0">

@@ -13,3 +13,7 @@ Route::resource('/alumnos', AlumnoController::class);
 Route::resource('/profesores', ProfesoreController::class);
 
 Route::resource('/posts', PostController::class);
+
+Route::get('/registro', [HomeController::class, 'registro']);
+
+Route::post('/crearusuario', [HomeController::class, 'crearUsuario'])->name('crear');
